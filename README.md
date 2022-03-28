@@ -23,6 +23,9 @@ Things you may want to cover:
 
 * ...
 
+# アプリケーション名
+
+calendar
 
 # テーブル設計
 
