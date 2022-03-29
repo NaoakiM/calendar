@@ -27,6 +27,10 @@ Things you may want to cover:
 
 calendar
 
+# アプリケーション概要
+
+予定をカレンダーの日付に入力できるアプリ
+
 # テーブル設計
 
 ## users テーブル
