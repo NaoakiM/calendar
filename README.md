@@ -35,6 +35,11 @@ calendar
 
 確定している予定をタイトル欄に入力し、Create Blogをクリックすると予定がカレンダー内に入る
 
+# 実装した機能についての画像
+
+https://gyazo.com/be61decd476492a1433d77dd1fb79414
+https://gyazo.com/f6b9d6318fe145184b6eb5ab6ef95412
+
 # テーブル設計
 
 ## users テーブル
